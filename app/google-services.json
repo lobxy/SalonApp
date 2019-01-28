@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395303855213",
+    "firebase_url": "https://jdiamondsalon-df15c.firebaseio.com",
+    "project_id": "jdiamondsalon-df15c",
+    "storage_bucket": "jdiamondsalon-df15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395303855213:android:84d0eda76b77b65c",
+        "android_client_info": {
+          "package_name": "com.bluezooweb.jdiamond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395303855213-7ef61is6mjdr4hs4vu7ntav0prfa7nvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluezooweb.jdiamond",
+            "certificate_hash": "a280f520e107c79b086b3c875b868f2890520234"
+          }
+        },
+        {
+          "client_id": "395303855213-pupnd4mdblnk7muam9hu4jirr7r9rjlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffg1Cau3ilWFxruP00Ju-Ig99us0WQ7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395303855213-pupnd4mdblnk7muam9hu4jirr7r9rjlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
